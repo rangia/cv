@@ -42,8 +42,9 @@ a:hover{
 }
 .footer-link
 {
+    font-size: 3rem;
     color: #11999e;
-    margin-right: 50px;
+    margin-right: 20px;
       font-family: 'Montserrat', sans-serif;
     text-decoration: none;
 }
@@ -54,14 +55,15 @@ a:hover{
 .top-container
 {
     position: relative;
-    padding-top: 100px;
-   background-color: #EAF6F6;
+    padding-top: 50px;
+       background-color: #dfd4e6;
 }
 .middle-container{
-  padding: 100px 0;
+  /* background-color: #dfd4e6; */
+  padding: 50px 0;
 }
 .bottom-container{
-  background-color: #66BFBF;
+  background-color: #4a0e5c;
   padding: 50px 0 20px;
 
 }
@@ -90,8 +92,13 @@ width: 30%;
   width: 50%;
 margin: 100px auto 100px auto;
 text-align: left;
-
 }
+.des{
+    width: 50%;
+    margin: 10px 1px 1px 300px;
+    text-align: left;
+}
+
 .code-img{
   width: 25%;
   float: left;
