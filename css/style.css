@@ -50,9 +50,9 @@ a:hover{
   color: black;
   background-color: #dfd4e6;
 }
-img {
+.mount-img {
   width: auto ;
-  max-width: 100% ;
+  max-width: 70% ;
   height: auto ;
 }
 .footer-link
@@ -84,7 +84,7 @@ img {
 }
 .hello-intro{
 margin: auto;
-width: 30%;
+width: 50%;
 }
 .contact-message{
   margin: 40px auto 60px;
@@ -97,11 +97,13 @@ width: 30%;
 }
 .top-cloud
 {
-    position: absolute;  top: 40px;     right: 250px;
+  max-width: 10% ;
+    position: absolute;  top: 50%;     right: 20%;
 }
 .bottom-cloud
 {
-    position: absolute;  bottom: 300px;     left: 250px;
+  max-width: 10% ;
+    position: absolute;  bottom: 35%;     left: 20%;
 }
 .skill-row{
   width: 50%;
